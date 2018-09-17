@@ -1,0 +1,96 @@
+body {
+    width: 100%;
+    background-color: azure;
+    margin: 0 auto
+}
+
+header,
+main,
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center
+}
+
+.offense {
+    color: crimson
+}
+
+.defense {
+    color: mediumblue
+}
+
+.support {
+    color: limegreen
+}
+
+.special {
+    color: darkviolet
+}
+
+h4 {
+    font-family: Georgia
+}
+
+.offense, .defense, .support, .special {
+    font-weight: bold
+}
+
+.heather {
+    background-color: lightyellow
+}
+
+.dedrick {
+    background-color: wheat
+}
+
+.yanmei{
+    background-color: lavender
+}
+
+.basir {
+    background-color: powderblue
+}
+
+.carlyn {
+    background-color: pink
+}
+
+.niyol{
+    background-color: gainsboro
+}
+
+.zakiya {
+    background-color: palegreen
+}
+
+.sean {
+    background-color: lightcoral
+}
+
+p {
+    padding: 1em
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 32%;
+    border-collapse: collapse;
+    box-align: center
+}
+
+table, td, th {
+    border: 1px solid black
+}
+
+td, th {
+    padding: 7px
+}
+
+#subtitle {
+    color: grey
+}
